@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>moroe.karabo</groupId>
+    <artifactId>cracking-the-code-interview</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>arraysleftrotation</module>
+        <module>makinganagrams</module>
+        <module>ransomnote</module>
+        <module>hascycle</module>
+        <module>balancedbrackets</module>
+        <module>ataleoftwostacks</module>
+        <module>datastructures</module>
+        <module>isabinarysearchtree</module>
+        <module>runningmedian</module>
+        <module>triescontacts</module>
+        <module>datastructuresudemy</module>
+        <module>dpcoinchange</module>
+        <module>dailycodingchallenges</module>
+        <module>googlechallenges</module>
+        <module>comparatorsorting</module>
+    </modules>
+
+
+</project>
